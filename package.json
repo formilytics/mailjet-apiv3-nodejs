@@ -1,5 +1,5 @@
 {
-  "name": "@appsumo/node-mailjet",
+  "name": "@formilytics/node-mailjet",
   "version": "1.0.0",
   "description": "Mailjet NodeJS API client",
   "main": "index.js",
@@ -19,7 +19,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/appsumo/mailjet-apiv3-nodejs.git"
+    "url": "git+https://github.com/formilytics/mailjet-apiv3-nodejs.git"
   },
   "keywords": [
     "email",
